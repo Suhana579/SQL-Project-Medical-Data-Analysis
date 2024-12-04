@@ -1,0 +1,1 @@
+This project involves analyzing medical data using MySQL. The focus is on data management, querying, and generating insights from a structured medical database. It showcases efficient data handling and complex SQL queries to support healthcare-related decision-making.
